@@ -1,0 +1,271 @@
+.header {
+  display: flex;
+}
+
+header>.nav1 {
+  display: flex;
+  margin-top: 40px;
+  margin-left: 500px;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.wp-img {
+  width: 150px;
+  height: 30px;
+  margin-top: 30px;
+  margin-left: 45px;
+}
+
+
+img {
+  width: auto;
+  height: auto;
+}
+
+.main-wrapper {
+  max-width: 1100px;
+  height: 800px;
+  background-color: rgb(245, 248, 250);
+  margin: auto;
+}
+
+.nav a {
+  max-width: 810px;
+  height: 73px;
+}
+
+button {
+  border: 1px solid;
+  border-radius: 2px;
+}
+
+.main-div {
+  display: flex;
+  margin-left: 200px;
+  margin-top: 40px;
+  background-color: rgb(245, 248, 250);
+
+}
+
+.checkout-form {
+  width: 420px;
+  height: 600px;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 6px 0px 0px 6px;
+}
+
+.side-bar {
+  width: 260px;
+  height: 600px;
+  background-color: blue;
+  border-radius: 0px 6px 6px 0px;
+}
+
+.para {
+  display: flex;
+  gap: 5px;
+}
+
+.names {
+  display: flex;
+  border: none;
+
+}
+
+input {
+  background-color: rgb(237, 239, 242);
+  border: none;
+  height: 70%;
+}
+
+.last-name {
+  margin-left: 20px;
+}
+
+.second-hr {
+  opacity: 0.2;
+}
+
+.email {
+  margin-top: 12px;
+  border: none;
+}
+
+.card-number {
+  margin-top: 0px;
+  border: none;
+}
+
+.buy-wp {
+  width: 88%;
+  margin-top: 30px;
+  margin-left: 25px;
+  justify-content: center;
+  background-color: rgb(3, 142, 125);
+  color: white;
+  border: none;
+  height: 30px;
+}
+
+.help {
+  display: flex;
+  margin-left: 100px;
+  gap: 8px;
+}
+
+.span {
+  font-weight: bold;
+}
+
+.hesitate {
+  margin-top: 0px;
+  margin-left: 100px;
+}
+
+
+.num1 {
+  width: 24px;
+  height: 22px;
+  border-radius: 50%;
+  color: rgb(116, 161, 207);
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  justify-content: center;
+  border: 1px solid rgb(116, 161, 207);
+}
+
+.num2 {
+  width: 24px;
+  height: 22px;
+  border-radius: 50%;
+  color: rgb(116, 161, 207);
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  border: 1px solid rgb(116, 161, 207);
+}
+
+.payment-infor {
+  display: flex;
+  gap: 5px;
+}
+
+.mask {
+  width: 24px;
+  height: 22px;
+  border-radius: 50%;
+  color: rgb(116, 161, 207);
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  border: 1px solid rgb(116, 161, 207);
+}
+
+.mask-icon {
+  display: flex;
+  display: 10px;
+}
+
+.shape {
+  margin-left: 150px;
+}
+
+.checkout,
+.para,
+.names,
+.email,
+.payment-infor,
+.card-number {
+  padding-left: 25px;
+}
+
+.side-text {
+  padding-left: 25px;
+  margin-top: 21px;
+  height: 40px;
+}
+
+.automatically {
+  width: 150px;
+  padding-left: 25px;
+}
+
+aside>div {
+  display: flex;
+}
+
+.checkmark {
+  height: 22px;
+  width: 22px;
+  border: white 1px solid;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.combined1,
+.combined2,
+.combined3 {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
+
+aside {
+  padding-left: 25px;
+  margin-top: 120px;
+}
+
+.need-client {
+  padding-left: 25px;
+  width: 170px;
+}
+
+.need-client>a {
+  margin-top: 0px;
+  text-decoration: underline;
+}
+
+.side-bar {
+  color: white;
+}
+
+.switch {
+  color: white;
+}
+
+.line-break {
+  margin-top: 40px;
+  width: 75%;
+  opacity: 0.4;
+}
+
+.ftp {
+  width: 190px;
+  margin: 0px auto;
+}
+
+.krik {
+
+  display: flex;
+  gap: 8px;
+  padding: 25px;
+  padding-top: 0px;
+}
+
+.krik-image {
+  width: 25px;
+  height: 25px;
+  margin-top: 12px;
+}
+
+.krik-text {
+  font-size: large;
+}
+
+footer {
+  text-align: center;
+}
